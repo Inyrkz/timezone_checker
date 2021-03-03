@@ -39,7 +39,7 @@ def timezones(zone):
         "WAT": "Etc/GMT+1",
         "ACT": "Australia/ACT",
         "AST": "Atlantic/Bermuda",
-        "CAT": "Africa/Johannesburg",
+        "CAT": "Africa/Johannesburg"
     }
 
     try:
